@@ -498,6 +498,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 0 15px;
 }
 
+#intro img {
+  padding: 0;
+  margin: 0;
+  max-height: 70px;
+}
+
 #intro h1 {
   color: #fff;
   font-size: 56px;
