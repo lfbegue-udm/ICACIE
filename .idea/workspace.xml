@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31e42bec-ad73-42a3-88a9-3bb0ad5ea436" name="Changes" comment="Index.php">
-      <change afterPath="$PROJECT_DIR$/speaker-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ICACIE.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="31e42bec-ad73-42a3-88a9-3bb0ad5ea436" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speaker-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/speaker-details.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,7 @@
       <workItem from="1672902542951" duration="1785000" />
       <workItem from="1672905193639" duration="8861000" />
       <workItem from="1672976324943" duration="14744000" />
-      <workItem from="1673093218305" duration="5713000" />
+      <workItem from="1673093218305" duration="6608000" />
     </task>
     <task id="LOCAL-00001" summary="Intro Section">
       <created>1672934007577</created>
@@ -151,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673098681376</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Speaker Details Section">
+      <created>1673099211137</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673099211137</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +188,7 @@
     <MESSAGE value="Contact Section" />
     <MESSAGE value="Responsive" />
     <MESSAGE value="Fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
+    <MESSAGE value="Speaker Details Section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Speaker Details Section" />
   </component>
 </project>
